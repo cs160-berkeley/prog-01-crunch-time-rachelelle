@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is a fun app that allows you to figure out how many calories you've burned after performing a certain number of reps or amount of time for a workout.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Rachel Lin ([rachellin@berkeley.edu](mailto:rachellin@berkeley.edu))
 
 ## Demo Video
 
