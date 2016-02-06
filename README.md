@@ -8,7 +8,7 @@ Rachel Lin ([rachellin@berkeley.edu](mailto:rachellin@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://https://youtu.be/EX8CI4-V-lI)
+See [Crunch Time] (https://https://youtu.be/EX8CI4-V-lI)
 
 ## Screenshots
 
