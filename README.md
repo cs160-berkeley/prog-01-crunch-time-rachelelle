@@ -10,6 +10,9 @@ Rachel Lin ([rachellin@berkeley.edu](mailto:rachellin@berkeley.edu))
 
 See [Crunch Time] (https://https://youtu.be/EX8CI4-V-lI)
 
+## Executable
+app-debug.apk can be found in the Application folder.
+
 ## Screenshots
 
 <img src="screenshots/screen1.png" height="400" alt="Screenshot"/>
