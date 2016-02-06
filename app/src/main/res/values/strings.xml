@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="greeting">Let\'s see how many calories you burned!</string>
+    <string name="edit_message">How many?</string>
+    <string name="final_value">input number</string>
+    <string name="calorie_text">calories</string>
+    <string name="button_send">Check</string>
+    <string name="reps">Reps</string>
+    <string name="minutes">Minutes</string>
+
+</resources>
