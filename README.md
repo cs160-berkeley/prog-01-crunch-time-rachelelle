@@ -16,6 +16,7 @@ app-debug.apk can be found in the Application folder.
 ## Screenshots
 
 <img src="screenshots/screen1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screen5.png" height="400" alt="Screenshot"/>
 <img src="screenshots/screen2.png" height="400" alt="Screenshot"/>
 <img src="screenshots/screen3.png" height="400" alt="Screenshot"/>
 <img src="screenshots/screen4.png" height="400" alt="Screenshot"/>
